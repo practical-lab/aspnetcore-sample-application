@@ -1,5 +1,7 @@
 # aspnetcore-sample-application
 
+![Docker Image CI](https://github.com/practical-lab/aspnetcore-sample-application/workflows/Docker%20Image%20CI/badge.svg)
+
 ## dotnet cli
 
 ### Create project
